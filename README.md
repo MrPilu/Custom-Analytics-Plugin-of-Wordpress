@@ -34,7 +34,7 @@ The plugin creates a custom database table to store the tracked data. On plugin 
 
 ## Contributing
 
-Contributions to the Custom Analytics Plugin are welcome! If you encounter any issues or have suggestions for improvements, please create a new issue on the [GitHub repository](https://github.com/your/repository).
+Contributions to the Custom Analytics Plugin are welcome! If you encounter any issues or have suggestions for improvements, please create a new issue on the [GitHub repository](https://github.com/MrPilu/Custom-Analytics-Plugin-of-Wordpress).
 
 ## License
 
